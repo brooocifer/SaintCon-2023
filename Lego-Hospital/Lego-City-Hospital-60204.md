@@ -2,7 +2,6 @@
 
 Components:
 - LEGO 60204 Lego City Hospital (2018) - $103.76 - https://www.amazon.com/dp/B07BHGC21Y/
-- LIGHTAILING Light Set for Lego 60204 - $24.99 - https://www.amazon.com/dp/B081RC7J2Y/
 
 Build instructions: https://www.lego.com/en-us/service/buildinginstructions/60204
 
